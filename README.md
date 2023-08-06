@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sardor Askarov</h1>
-<h3 align="center">I'm C# Web Developer </h3>
+<h3 align="center">I'm C# Desktop and Web Developer </h3>
 
-- 💬 Ask me about ** C#, .NET FREAMEWORK,ASP.NET CORE WEB API, My Sql, POSTGRESQL**
+- 💬 Ask me about ** C#,WinForm,WPF, .NET FREAMEWORK,ASP.NET CORE WEB API, My Sql, POSTGRESQL**
 
 - 📫 How to reach me **askarovsardorkhan@gmail.com**
