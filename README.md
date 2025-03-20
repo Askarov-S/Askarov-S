@@ -3,4 +3,4 @@
 
 - 💬 Ask me about ** C#,WinForm,WPF, .NET FREAMEWORK,ASP.NET CORE WEB API, My Sql, POSTGRESQL**
 
-- 📫 How to reach me **askarovsardorkhan@gmail.com**
+- 📫 How to reach me **sardoraskarovjr@gmail.com**
