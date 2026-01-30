@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sardor Askarov</h1>
-<h3 align="center">Backend Developer | .NET & Node.js Specialist</h3>
+<h3 align="center">Backend Developer | .NET & Node.js </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=askarov-s&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -29,22 +29,6 @@ I'm a passionate full-stack developer with expertise in both **.NET** and **Node
 - **Version Control**: Git, GitHub
 - **API Development**: REST, Swagger/OpenAPI
 - **Development Tools**: Visual Studio, VS Code, Postman
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=askarov-s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=askarov-s&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askarov-s&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ## 📫 Get In Touch
 
