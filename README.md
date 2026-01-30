@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sardor Askarov</h1>
-<h3 align="center">Backend Developer | .NET & Node.js </h3>
+<h3 align="center">Software engineer | .NET & Node.js </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=askarov-s&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
