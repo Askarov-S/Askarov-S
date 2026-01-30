@@ -1,6 +1,59 @@
 <h1 align="center">Hi 👋, I'm Sardor Askarov</h1>
-<h3 align="center">I'm C# Desktop and Web Developer </h3>
+<h3 align="center">Full-Stack Developer | .NET & Node.js Specialist</h3>
 
-- 💬 Ask me about ** C#,WinForm,WPF, .NET FREAMEWORK,ASP.NET CORE WEB API, My Sql, POSTGRESQL**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=askarov-s&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 📫 How to reach me **sardoraskarovjr@gmail.com**
+## 👨‍💻 About Me
+
+I'm a passionate full-stack developer with expertise in both **.NET** and **Node.js** ecosystems. I love building robust backend systems, scalable APIs, and efficient desktop applications.
+
+- 🔭 Currently working on **.NET Core Web APIs** and **Node.js microservices**
+- 🌱 Continuously learning modern development practices and cloud technologies
+- 💼 Experienced in building desktop applications with **WinForms** and **WPF**
+- 🚀 Passionate about clean code, design patterns, and software architecture
+
+## 🛠️ Tech Stack
+
+### Backend Development
+- **.NET Ecosystem**: C#, ASP.NET Core, .NET Framework, Entity Framework Core
+- **Node.js**: Express.js, NestJS, RESTful APIs
+- **Desktop Applications**: WinForms, WPF
+
+### Databases
+- **Relational**: PostgreSQL, MySQL, SQL Server
+- **ORM/Query**: Entity Framework, Dapper, Sequelize
+
+### Tools & Technologies
+- **Version Control**: Git, GitHub
+- **API Development**: REST, Swagger/OpenAPI
+- **Development Tools**: Visual Studio, VS Code, Postman
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=askarov-s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=askarov-s&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=askarov-s&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+## 📫 Get In Touch
+
+- 📧 Email: **sardoraskarovjr@gmail.com**
+- 💼 Open to collaboration and interesting projects
+- 💬 Ask me about: **C#, .NET Core, Node.js, WinForms, WPF, Web APIs, PostgreSQL, MySQL**
+
+---
+
+<p align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
